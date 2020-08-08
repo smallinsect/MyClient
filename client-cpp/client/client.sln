@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client", "client\client.vcxproj", "{595A5C1B-C236-4DDB-85AA-F912288CEFDE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client1.0", "client1.0\client1.0.vcxproj", "{51672296-4660-4944-B2E7-DDDC740618B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{595A5C1B-C236-4DDB-85AA-F912288CEFDE}.Release|x64.Build.0 = Release|x64
 		{595A5C1B-C236-4DDB-85AA-F912288CEFDE}.Release|x86.ActiveCfg = Release|Win32
 		{595A5C1B-C236-4DDB-85AA-F912288CEFDE}.Release|x86.Build.0 = Release|Win32
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Debug|x64.ActiveCfg = Debug|x64
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Debug|x64.Build.0 = Debug|x64
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Debug|x86.Build.0 = Debug|Win32
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Release|x64.ActiveCfg = Release|x64
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Release|x64.Build.0 = Release|x64
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Release|x86.ActiveCfg = Release|Win32
+		{51672296-4660-4944-B2E7-DDDC740618B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
